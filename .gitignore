@@ -1,0 +1,11 @@
+/.db.sqlite3
+*.py[cod]
+__pycache__/
+*-info/
+count.py
+/build/
+/dist/
+.venv*
+.env
+/assets
+assets
